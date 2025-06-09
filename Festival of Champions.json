@@ -1,10 +1,32 @@
 {
   "title": "Festival of Champions",
-  "description": "https://www.pixiv.net/user/411252/series/26523\n\ni just translated (lie) and redrew a bit (horribly)\n\nim open for any comments\ncontact: `joekosi` on discord",
+  "description": "https://www.pixiv.net/user/411252/series/26523\n\ni just translated (lie) and redrew a bit (horribly)\n\nim open for any feedbacks, comments, critiques\ncontact: `joekosi` on discord",
   "artist": "清順(トンボ）",
   "author": "清順(トンボ）",
-  "cover": "https://images2.imgbox.com/fa/5b/zJ7sdlbx_o.png",
+  "cover": "https://images2.imgbox.com/e4/30/xOdcAokn_o.png",
   "chapters": {
+    "0": {
+      "title": "Prologue",
+      "volume": "0",
+      "last_updated": "1749472169",
+      "groups": {
+        "": [
+          "https://images2.imgbox.com/e4/30/xOdcAokn_o.png",
+          "https://images2.imgbox.com/a2/80/6JyeTHbc_o.png",
+          "https://images2.imgbox.com/ad/ee/bN2fDZ2P_o.png",
+          "https://images2.imgbox.com/55/15/rkDtASSL_o.png",
+          "https://images2.imgbox.com/91/08/GwFod9Jf_o.png",
+          "https://images2.imgbox.com/89/4a/OveOaZfa_o.png",
+          "https://images2.imgbox.com/2b/b1/GgrjCoIG_o.png",
+          "https://images2.imgbox.com/e1/75/uRSEIb92_o.png",
+          "https://images2.imgbox.com/91/94/hhtCPAMy_o.png",
+          "https://images2.imgbox.com/89/47/i8AZYQFC_o.png",
+          "https://images2.imgbox.com/91/7b/rBV6JBK7_o.png",
+          "https://images2.imgbox.com/4d/7e/CMW3k2yX_o.png",
+          "https://images2.imgbox.com/92/42/QhoY8Na3_o.png"
+        ]
+      }
+    },
     "0.1": {
       "title": "Red with Pikachu",
       "volume": "0",
